@@ -1,4 +1,4 @@
-全部频道,#genre#
+央视卫视,#genre#
 CCTV1,
 CCTV2,
 CCTV3,
