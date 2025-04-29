@@ -40,7 +40,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/ind
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视卫视",CCTV1
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000131/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视卫视",CCTV2
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000023315$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视卫视",CCTV2
 http://goo.bkpcp.top/mg/CCTV2$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视卫视",CCTV2
@@ -80,7 +80,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/in
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视卫视",CCTV2
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?key=tvbox6_com$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视卫视",CCTV3
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000011218$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视卫视",CCTV3
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视卫视",CCTV3
@@ -120,7 +120,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视卫视",CCTV3
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视卫视",CCTV4
-http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000031664$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视卫视",CCTV4
 http://z.b.bkpcp.top/m.php?id=CCTV-4国际$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视卫视",CCTV4
@@ -160,7 +160,7 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000485/ind
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视卫视",CCTV4
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视卫视",CCTV5
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000265005$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视卫视",CCTV5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视卫视",CCTV5
@@ -200,7 +200,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000461/ind
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视卫视",CCTV5
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000461/index.m3u8?IAS$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视卫视",CCTV6
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000016466$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视卫视",CCTV6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视卫视",CCTV6
@@ -240,7 +240,7 @@ http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000379/ind
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视卫视",CCTV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视卫视",CCTV7
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000024341$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视卫视",CCTV7
 http://goo.bkpcp.top/mg/CCTV7$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视卫视",CCTV7
@@ -280,7 +280,7 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/index.m3u8$�
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视卫视",CCTV7
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?IAS$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视卫视",CCTV8
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000003736$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视卫视",CCTV8
 http://goo.bkpcp.top/mg/cctv8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视卫视",CCTV8
@@ -320,7 +320,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视卫视",CCTV8
 http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000371/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视卫视",CCTV9
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000014583$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视卫视",CCTV9
 http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视卫视",CCTV9
@@ -400,7 +400,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000375/ind
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视卫视",CCTV10
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?key=tvbox6_com$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视卫视",CCTV11
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000002000019789$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视卫视",CCTV11
 http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视卫视",CCTV11
@@ -440,7 +440,7 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000497/ind
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视卫视",CCTV11
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?IAS$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视卫视",CCTV12
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000032494$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视卫视",CCTV12
 http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视卫视",CCTV12
@@ -522,7 +522,7 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/ind
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视卫视",CCTV14
 https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视卫视",CCTV14
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000008170$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视卫视",CCTV14
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视卫视",CCTV14
@@ -600,7 +600,7 @@ http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000501/ind
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视卫视",CCTV15
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视卫视",CCTV16
-http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000233001$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视卫视",CCTV16
 http://dsj.motem.top:8880/gaoma/cctv16.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视卫视",CCTV16
@@ -640,7 +640,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$订阅
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视卫视",CCTV16
 http://alvin.ergotron.net:8000/udp/239.77.1.76:5146$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视卫视",CCTV17
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视卫视",CCTV17
 http://dsj.motem.top:8880/gaoma/cctv17.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视卫视",CCTV17
@@ -680,7 +680,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000494/ind
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视卫视",CCTV17
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视卫视",CCTV5+
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000018504$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视卫视",CCTV5+
 http://dsj.motem.top:8880/gaoma/cctv5p.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视卫视",CCTV5+
@@ -813,6 +813,8 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?$�
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="央视卫视",哈哈炫动
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="央视卫视",哈哈炫动
+https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1745767522&key=0e2159368dbef6eaf5090c138463e435$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="央视卫视",优漫卡通
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="央视卫视",优漫卡通
@@ -833,6 +835,8 @@ http://tv.scjyhd.com:4022/udp/239.93.0.251:5140$订阅源-IPv6-1920x1080-IPv6-19
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="央视卫视",优漫卡通
 http://goo.bkpcp.top/mg/ymkt$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="央视卫视",优漫卡通
+https://live.lalifeier.eu.org/jstv/ymkt.m3u8?t=1745796321&key=a52fbb40a8c25dfa0feef5a1b4b5910d$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="央视卫视",嘉佳卡通
 https://www.freetv.top/migu/614952364.m3u8?migutoken=5a8d74ae8c44a9192ca4c8d2dda16dc064f19e693d949833720d678071b996b52c1f2f79dce5e67561950b88d9ac8dcee4ef2f8aeed8993e2c6a44393610b740627912b5132509561815f1eba0$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="央视卫视",嘉佳卡通
@@ -899,6 +903,8 @@ http://data.3g.yy.com/live/hls/1382735573/1382735573$订阅源-IPv6-1920x1080-IP
 http://tv.scjyhd.com:4022/udp/239.11.0.142:5140$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视卫视",CHC动作电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视卫视",CHC动作电影
+http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视卫视",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视卫视",CHC家庭影院
@@ -1234,7 +1240,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227236/index.m3u
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="央视卫视",山东卫视
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227236/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000001000030159$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
 http://j.x.bkpcp.top/jx/ANHUIHD$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
@@ -1252,7 +1258,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226391/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
 http://lu.wqwqwq.sbs/itv/1000000005000265025.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="央视卫视",安徽卫视
@@ -1292,7 +1298,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="央视卫视",辽宁卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="央视卫视",辽宁卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="央视卫视",辽宁卫视
 http://lu.wqwqwq.sbs/itv/1000000005000265022.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="央视卫视",辽宁卫视
@@ -1326,7 +1332,7 @@ http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
 https://www.freetv.top/migu/738910838.m3u8?migutoken=ac84c97dd81618cf2a8e4a9d33f1d29961c35a2c55c03702427fbd5a28ba1a3e5436de3a0e7c53e40b4d8c68cfd0827a614fc40283c8d0e64a79e05eeeb3398317650d6eefe46b9c1f9e679c61$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
@@ -1339,6 +1345,10 @@ http://tv.scjyhd.com:4022/udp/239.93.0.176:5140$订阅源-IPv6-1920x1080-IPv6-19
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
 http://nas.suntao.online:35455/bptv/10000100000000050000000003887404.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
+https://tv.bfsu.edu.cn/hls/sxhd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="央视卫视",陕西卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="央视卫视",贵州卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="央视卫视",贵州卫视
@@ -1358,7 +1368,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="央视卫视",贵州卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="央视卫视",贵州卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227224/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="央视卫视",贵州卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="央视卫视",贵州卫视
@@ -1556,7 +1566,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="央视卫视",四川卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="央视卫视",四川卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227197/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="央视卫视",四川卫视
 http://live.wqwqwq.sbs/itv/5000000004000006119.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="央视卫视",四川卫视
@@ -1600,7 +1610,7 @@ https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="央视卫视",湖北卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="央视卫视",湖北卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="央视卫视",湖北卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226477/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="央视卫视",湖北卫视
@@ -1636,7 +1646,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="央视卫视",天津卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="央视卫视",天津卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227209/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226621/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="央视卫视",天津卫视
 http://lu.wqwqwq.sbs/itv/1000000005000265026.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="央视卫视",天津卫视
@@ -1676,7 +1686,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="央视卫视",云南卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="央视卫视",云南卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227211/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="央视卫视",云南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?love=freedom#https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="央视卫视",云南卫视
@@ -1714,11 +1724,11 @@ http://yc.myds.me:35455/itv/1000000001000001096.m3u8?cdn=ystenlive$订阅源-IPv
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="央视卫视",重庆卫视
 http://nas.suntao.online:35455/itv/1000000001000001096.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="央视卫视",重庆卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226409/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="央视卫视",重庆卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="央视卫视",重庆卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="央视卫视",重庆卫视
 http://lu.wqwqwq.sbs/itv/1000000005000265017.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="央视卫视",重庆卫视
@@ -1788,7 +1798,7 @@ http://j.x.bkpcp.top/jx/NXWS$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="央视卫视",宁夏卫视
 http://goo.bkpcp.top/mg/nxws$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="央视卫视",宁夏卫视
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9-jWxE6tfiz7aO7MvbCY7Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="央视卫视",宁夏卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="央视卫视",宁夏卫视
@@ -1950,7 +1960,7 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227191/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
@@ -1963,6 +1973,12 @@ http://tv.scjyhd.com:4022/udp/239.11.0.32:5140$订阅源-IPv6-1920x1080-IPv6-192
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
 http://nas.suntao.online:35455/bptv/10000100000000050000000003887413.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
+https://tv.bfsu.edu.cn/hls/sxrtv.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
+https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1745774515&key=2cf9843ecf3af40d72bf8e2ba5215fc3$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
+http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
@@ -1980,7 +1996,7 @@ http://nas.suntao.online:35455/bptv/10000100000000050000000004796877.m3u8$订阅
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
 https://www.freetv.top/migu/947472502.m3u8?migutoken=7837384e48fd26a97f31b5166b88580720ebc21f5e10f392561f571058dda831b33433f9113b41fa03dff482db5244ae83df7b277e82cf7a4651045d113b16c3733999e3c4428166e0995051a4$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
 http://live.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
@@ -2062,7 +2078,7 @@ https://www.freetv.top/migu/947472506.m3u8?migutoken=c740fc58e518a315b254873398c
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="央视卫视",青海卫视
 http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225628/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="央视卫视",青海卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227189/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8?icpid=88888888&servicetype=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="央视卫视",青海卫视
 http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="央视卫视",青海卫视
@@ -2142,7 +2158,7 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221226847/index.m3u
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="央视卫视",西藏卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="央视卫视",西藏卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="央视卫视",西藏卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="央视卫视",西藏卫视
