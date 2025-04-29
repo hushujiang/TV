@@ -389,6 +389,7 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 卡酷少儿,http://tv.scjyhd.com:4022/udp/239.93.0.208:5140$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 卡酷少儿,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226927/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 卡酷少儿,http://goo.bkpcp.top/mg/bjkk$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+卡酷少儿,http://dsj.motem.top:8880/bptv/10000100000000050000000003904597.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -396,6 +397,7 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 金鹰卡通,http://tv.scjyhd.com:4022/udp/239.93.0.108:5140$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -424,6 +426,7 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 嘉佳卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 嘉佳卡通,http://goo.bkpcp.top/mg/jjkt$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 嘉佳卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000003887459.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+嘉佳卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000003887459.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -674,6 +677,7 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$订阅源-IPv6-1920x1080
 陕西卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887404.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 陕西卫视,https://tv.bfsu.edu.cn/hls/sxhd.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+陕西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -989,6 +993,7 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$订阅源-IPv6-1920x1080
 山西卫视,https://tv.bfsu.edu.cn/hls/sxrtv.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1745774515&key=2cf9843ecf3af40d72bf8e2ba5215fc3$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 山西卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+山西卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
