@@ -433,6 +433,7 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -443,6 +444,7 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 黑莓电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
