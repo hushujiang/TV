@@ -477,6 +477,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC影迷电影,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+CHC影迷电影,https://migu.188766.xyz/?migutoken=cba3ea508f820fa23c15bc9ded5355f1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
