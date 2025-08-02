@@ -468,6 +468,7 @@ CHC动作电影,http://tv.scjyhd.com:4022/udp/239.11.0.142:5140$订阅源-IPv6-1
 CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
