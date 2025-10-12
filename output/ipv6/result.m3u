@@ -815,6 +815,8 @@ http://wouu.net:9977/udp/239.93.0.208:5140$订阅源-IPv6-1920x1080-IPv6-1920x10
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="央视卫视",卡酷少儿
 https://cc06.tv12.xyz/29.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="央视卫视",卡酷少儿
+http://dsk.cc/bjtv/btime.php?id=bjkk$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
