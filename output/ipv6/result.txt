@@ -377,11 +377,13 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 甄子丹,https://www.goodiptv.club/huya/11352935$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 都市剧场,http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 欢笑剧场,http://3501776.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
