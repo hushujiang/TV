@@ -381,8 +381,8 @@ CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8$订阅源
 都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$订阅源-IPv6-1920x1080
 都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源-IPv6-1920x1080
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$订阅源
-都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8$订阅源
+都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 都市剧场,http://dassby.qqff.top:99/live/都市剧场/index.m3u8$订阅源
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc$订阅源-IPv6-1920x1080
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc$订阅源-IPv6-1920x1080
@@ -515,8 +515,8 @@ CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源-IPv
 CHC动作电影,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=afa18d2457e898b11f48f7764c61d4cc$订阅源-IPv6-1920x1080
 CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6009&tk=a0c4f6cfaba3$订阅源
 CHC动作电影,http://218.15.183.23:9901/tsfile/live/23039_1.m3u8$订阅源
-CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8$订阅源
+CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源-IPv6-1920x1080
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-IPv6-1920x1080
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy$订阅源-IPv6-1920x1080
