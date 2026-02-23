@@ -761,8 +761,6 @@ http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb$订阅源-IPv6-
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="央视卫视",都市剧场
 https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="央视卫视",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="央视卫视",欢笑剧场
 http://z.b.bkpcp.top/m.php?id=hxjc$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="央视卫视",欢笑剧场
@@ -789,8 +787,6 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?$�
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="央视卫视",动漫秀场
 http://tv.scjyhd.com:4022/udp/239.10.0.101:5140$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="央视卫视",动漫秀场
-http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG65Z92UDWjXjUztx8_6jXB9paauw4zZI0JtsOY0HKF0lC8_JLi2pa2Ma0in_8jninRMK9S6ET_iXvB0tt02GhFMVjLlS7gQGcvNT4wy5TGJ-pnjzynVYXfleaV6B-PTVjzainvo1nrtsX0XQfIjD4Wu_342NdqjeGOY-wKDY51eFJJmRV1ksdNOtjFabg76ifiDVsRkidO7CjSocYw1pRIQ.m3u8?u=1757123819$订阅源
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="央视卫视",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="央视卫视",卡酷少儿
@@ -856,17 +852,15 @@ http://3501776.xyz:35455/itv/5000000006000040024.m3u8?cdn=bestzb$订阅源-IPv6-
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 https://cc06.tv12.xyz/55.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
-http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGos9NTI_Mau8qi-hRVSi5goaf_HHYwROc_XStLk4MMm4zaeaXYswVihgt5wmtayNdgMywiju4lzhjxo0E3vyqLc3cMjqy-P6s-m0akkiRO4oPq9ClYYF9GURBEBaOfnmQ_pM5lMCBOBjz3op_Y3H_eAeoiTC4-yIDwsqwDIzNMwqmYqAIux8muk0U9fRZAsaoGgKjacnzrvaYi6fw-uIvsQ.m3u8?u=1757123819$订阅源
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 http://125.43.249.130:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 http://36.136.38.87:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
-http://183.11.239.36:808/hls/69/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 http://125.42.150.177:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
+http://183.11.239.36:808/hls/69/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="央视卫视",金鹰卡通
 http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="央视卫视",哈哈炫动
@@ -1037,6 +1031,8 @@ https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&
 http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b0f988110099cf6a8405d8aacc0ec1c4$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视卫视",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订阅源
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视卫视",CHC家庭影院
+http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视卫视",CHC影迷电影
 http://eastscreen.tv/ooooo.php?id=chchd$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视卫视",CHC影迷电影
