@@ -364,14 +364,12 @@ CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8$订阅源-IPv6-1920x1080
 CETV1,https://cc06.tv12.xyz/23.m3u8$订阅源-IPv6-1920x1080
 CETV1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源-IPv6-1920x1080
-CETV1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8$订阅源
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$订阅源-IPv6-1920x1080
 CETV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8$订阅源-IPv6-1920x1080
 CETV2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c819615222219346bbe2fa8d6e4231da9ad89c4faf34adbae451bebfa99d9b8c9eda32e04a0066231dfd40496610efa4bee9ad5f110baee36b6f4098850d6b507505f$订阅源-IPv6-1920x1080
 CETV2,https://cc06.tv12.xyz/24.m3u8$订阅源-IPv6-1920x1080
 CETV2,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy$订阅源-IPv6-1920x1080
 CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?msisdn=20250903090033bf55eab2bb984fe0b4ac863e60d28ac6&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ebfbdc6c83654112720d2b5599373223&ddCalcu=3e2bv2fa3ba7da3c969c5853b625d4012172&sv=10004&ct=android$订阅源-IPv6-1920x1080
-CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8$订阅源
 周星驰,https://live.iill.top/huya/11342412$订阅源-IPv6-1920x1080
 李连杰,https://live.iill.top/huya/11342390$订阅源-IPv6-1920x1080
 成龙,https://p6-dy.byteimg.com/origin/pgc-image/bebfddceee5c40f495882785675174cf$订阅源-IPv6-1920x1080
@@ -413,7 +411,7 @@ CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8$订阅源
 卡酷少儿,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8$订阅源-IPv6-1920x1080
 卡酷少儿,https://cc06.tv12.xyz/29.m3u8$订阅源-IPv6-1920x1080
 卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk$订阅源-IPv6-1920x1080
-卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$订阅源
+卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源
 金鹰卡通,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$订阅源-IPv6-1920x1080
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8$订阅源-IPv6-1920x1080
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8$订阅源-IPv6-1920x1080
@@ -426,9 +424,10 @@ CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8$订阅源
 金鹰卡通,http://wouu.net:9977/udp/239.93.0.108:5140$订阅源-IPv6-1920x1080
 金鹰卡通,http://3501776.xyz:35455/itv/5000000006000040024.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080
 金鹰卡通,https://cc06.tv12.xyz/55.m3u8$订阅源-IPv6-1920x1080
+金鹰卡通,http://101.66.199.78:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+金鹰卡通,http://101.66.199.142:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 金鹰卡通,http://183.11.239.36:808/hls/69/index.m3u8$订阅源
 金鹰卡通,http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$订阅源
-金鹰卡通,http://101.66.199.142:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源-IPv6-1920x1080
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8$订阅源-IPv6-1920x1080
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8$订阅源-IPv6-1920x1080
@@ -499,8 +498,8 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096
 CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源-IPv6-1920x1080
 CHC动作电影,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=afa18d2457e898b11f48f7764c61d4cc$订阅源-IPv6-1920x1080
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$订阅源
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$订阅源
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy$订阅源-IPv6-1920x1080
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源-IPv6-1920x1080
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy$订阅源-IPv6-1920x1080
