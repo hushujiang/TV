@@ -1053,7 +1053,7 @@ CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 山西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8$订阅源-IPv6-1920x1080
 山西卫视,http://3501776.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080
 山西卫视,https://cc06.tv12.xyz/107.m3u8$订阅源-IPv6-1920x1080
-山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8$订阅源
+山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8$订阅源
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$订阅源-IPv6-1920x1080
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws$订阅源-IPv6-1920x1080
 海南卫视,http://j.x.bkpcp.top/jx/HAINHD$订阅源-IPv6-1920x1080
