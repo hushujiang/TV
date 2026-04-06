@@ -2108,7 +2108,7 @@ http://3501776.xyz:35455/itv/1000000002000021220.m3u8?cdn=ystenlive$订阅源-IP
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
 https://cc06.tv12.xyz/107.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="央视卫视",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8$订阅源
+http://111.56.90.5/000000000000/5000000006000040023/1.m3u8$订阅源
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="央视卫视",海南卫视
